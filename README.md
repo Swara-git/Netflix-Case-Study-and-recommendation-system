@@ -1,12 +1,7 @@
 # Netflix-Case-Study-and-recommendation-system
 
  
-Shri Ramdeobaba College of Engineering and 
-Management,Nagpur
-Department of Electronics Engineering
-ENP361-3: Machine Learning Lab
-Date: 19 April 2022
-Micro Project
+
 NETFLIX CASE STUDY
 Abstract -
 A. To ensure retention what all things they need to build while content creation that will earn the best in terms of revenue, popularity and acclaim. B. To come up with characteristics of movies that will help them achieve their business goal
